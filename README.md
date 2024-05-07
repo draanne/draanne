@@ -1,6 +1,6 @@
-#Olá, meu nome é Dra. Anne
+###Olá, meu nome é Dra. Anne
 
-Sou professora e utilizo a Alura de forma obrigatória. <br>
+Sou professora e utilizo a Alura de forma **obrigatória**. <br>
 Estou aprendendo JavaScript <br>
 Utilizo essa ferramenta por que sou obrigada, ainda que ache interessante.<br>
 
